@@ -1,1 +1,1 @@
-"# es6-typescript training repo" 
+# es6-typescript training repo
